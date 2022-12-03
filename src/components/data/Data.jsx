@@ -64,10 +64,6 @@ export const navbar=[
         link:'Blog',
         path:'/blog',
     },
-    {
-        link:'Contact',
-        path:'/contact',
-    },
 ]
 export const collectionData=[
     {
